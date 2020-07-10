@@ -8,3 +8,9 @@ When the correct number is guessed, the screen displays white and the user is in
 In order to guess a number, a number is typed into the appropriate text box and the enter key is pressed. 
 
 In addition to a second text box informing the user if their guess it too high or too low, there is also a button to allow the user to start a new game.
+
+![Too Low Warmer](https://github.com/jamesbrannon98/2DDrawingApplication/blob/master/2DDrawingApplicationPicture.PNG?raw=true)
+
+![Too High Colder](https://github.com/jamesbrannon98/2DDrawingApplication/blob/master/2DDrawingApplicationPicture.PNG?raw=true)
+
+![Correct Answer](https://github.com/jamesbrannon98/2DDrawingApplication/blob/master/2DDrawingApplicationPicture.PNG?raw=true)
